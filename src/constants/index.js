@@ -24,6 +24,7 @@ import {
     tripguide,
     threejs,
     unity,
+    kevi,
   } from "../assets";
   
   export const navLinks = [
@@ -131,8 +132,8 @@ import {
     },
     {
       title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      company_name: "Kevi Tech",
+      icon: kevi,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
