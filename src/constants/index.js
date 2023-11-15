@@ -15,9 +15,9 @@ import {
     git,
     figma,
     docker,
-    tripguide,
     threejs,
     unity,
+    livi,
     kevi,
     sme,
     cpg,
@@ -227,9 +227,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Livability Services",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "We have enthusiastic, dedicated, and energetic staff from different backgrounds, who are ready to provide high-quality, respectful care in all settings including your own house, S.I.L, STAA or in the community.",
       tags: [
         {
           name: "nextjs",
@@ -244,7 +244,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: livi,
       source_code_link: "https://github.com/",
     },
   ];

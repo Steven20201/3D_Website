@@ -33,6 +33,7 @@ import sme from "./SME.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import SEO from './SEO Matters.png';
+import livi from './liviable.png';
 import tripguide from "./tripguide.png";
 
 export {
@@ -61,8 +62,8 @@ export {
   meta,
   shopify,
   starbucks,
-  tesla,
   SEO,
+  livi,
   unity,
   kevi,
   sme,
