@@ -14,7 +14,6 @@ import {
     mongodb,
     git,
     figma,
-    docker,
     threejs,
     unity,
     livi,
@@ -63,17 +62,17 @@ import {
   ];
   
   const technologies = [
-    {
-      name: "HTML 5",
-      icon: html,
-    },
-    {
+   {
       name: "CSS 3",
       icon: css,
     },
     {
       name: "JavaScript",
       icon: javascript,
+    },
+    {
+      name: "HTML 5",
+      icon: html,
     },
     {
       name: "TypeScript",
@@ -110,10 +109,6 @@ import {
     {
       name: "figma",
       icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
