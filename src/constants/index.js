@@ -208,7 +208,7 @@ import {
     {
       name: "SEO Matters",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "At SEO Matters, our mission is to help small and medium businesses experience their full growth potential. SEO Matters provides proper digital service strategies through building strong collaborations",
       tags: [
         {
           name: "react",
