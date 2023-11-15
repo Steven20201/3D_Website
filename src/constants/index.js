@@ -26,6 +26,7 @@ import {
     unity,
     kevi,
     sme,
+    cpg,
   } from "../assets";
   
   export const navLinks = [
@@ -149,7 +150,7 @@ import {
       company_name: "SME Tech Solutions",
       icon: sme,
       iconBg: "#383E56",
-      date: "June 2022 - Present",
+      date: "March 2022 - Present",
       points: [
         "Monitored and responded to comments, messages, and mentions, fostering a positive online community for clients.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -189,12 +190,12 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "CPG Global",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "CPG is a full-scope Certification Body Accredited by JAS-ANZ (Joint Accreditation System – Australia New Zealand), SAC (Singapore Accreditation Council),  EIAC (Emirates International Accreditation Centre, SANAS (South African National System),  and by APMG International as an Accredited Certification Body.",
       tags: [
         {
-          name: "react",
+          name: "WordPress",
           color: "blue-text-gradient",
         },
         {
@@ -206,8 +207,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: cpg,
+      source_code_link: "www.cpg.global",
     },
     {
       name: "Job IT",

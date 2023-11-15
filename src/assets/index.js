@@ -20,6 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import cpg from "./CPG.png";
 
 import meta from "./company/meta.png";
 import unity from "./Unity.png";
@@ -48,6 +49,7 @@ export {
   git,
   html,
   javascript,
+  cpg,
   mongodb,
   nodejs,
   reactjs,
