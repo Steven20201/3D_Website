@@ -26,15 +26,12 @@ import meta from "./company/meta.png";
 import unity from "./Unity.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 import kevi from "./kevi.png";
 import sme from "./SME.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
 import SEO from './SEO Matters.png';
 import livi from './liviable.png';
-import tripguide from "./tripguide.png";
+
 
 export {
   logo,
@@ -67,7 +64,5 @@ export {
   unity,
   kevi,
   sme,
-  carrent,
-  jobit,
-  tripguide,
+  
 };
