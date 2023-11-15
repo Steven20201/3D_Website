@@ -15,18 +15,13 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
-    carrent,
-    jobit,
     tripguide,
     threejs,
     unity,
     kevi,
     sme,
     cpg,
+    SEO,
   } from "../assets";
   
   export const navLinks = [
@@ -211,7 +206,7 @@ import {
       source_code_link: "www.cpg.global",
     },
     {
-      name: "Job IT",
+      name: "SEO Matters",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
@@ -228,7 +223,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: SEO,
       source_code_link: "https://github.com/",
     },
     {
