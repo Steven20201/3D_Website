@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo-no-background.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -22,10 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import cpg from "./CPG.png";
 
-import meta from "./company/meta.png";
 import unity from "./Unity.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
 import kevi from "./kevi.png";
 import sme from "./SME.png";
 
@@ -56,9 +53,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
   SEO,
   livi,
   unity,
