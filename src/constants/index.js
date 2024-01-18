@@ -127,16 +127,17 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
+      title: "Junior Software Developer",
       company_name: "Kevi Tech",
       icon: kevi,
       iconBg: "#E6DEDD",
       date: "May 2021 - Feb 2022",
       points: [
-        "Developed and maintained responsive websites for clients using HTML, CSS, JavaScript, and various front-end frameworks.",
-        "Implemented SEO best practices to improve website visibility and ranking on search engines.",
-        "Debugged and resolved cross-browser compatibility issues to ensure a seamless user experience.",
-        "Collaborated with the marketing team to integrate tracking and analytics tools for client websites.",
+        "Integrated Tailwind UI seamlessly with React Flow to create visually appealing and user-friendly interfaces for customizable UI user journeys",
+        "Worked on various PHP projects, including website development and database management, gaining hands-on experience with PHP, HTML, CSS, and JavaScript.",
+        "Implemented responsive web designs using CSS3 and media queries, ensuring optimal user experiences across various devices",
+        "Integrated Tailwind UI seamlessly with React Flow to create visually appealing and user-friendly interfaces for customizable UI user journeys.",
+        "Implemented Email.js in the web Application to streamline order processing and collect customer feedback, demonstrating effective use of communication and feedback systems"
       ],
     },
     {
@@ -146,10 +147,11 @@ import {
       iconBg: "#383E56",
       date: "March 2022 - Present",
       points: [
-        "Monitored and responded to comments, messages, and mentions, fostering a positive online community for clients.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Optimized on-page elements, including meta tags, headings, and content, to improve organic search rankings.",
-        "Oversaw social media marketing campaigns, including the creation of content and advertising.",
+        "Spearheaded the development of responsive and visually appealing web application using HTML5, CSS3, PHP, Laravel, BootStrap, JavaScript ensuring optimal user experience and building large-scale web application",
+        "Pioneered data-driven social media strategies and guided the team in implementing highly engaging campaigns on Facebook, Instagram, and Email, leading to a 60% boost in customer acquisition and a 25% increase in conversion rates",
+        "Developed code inside the GitHub to discuss and update with teammates, ensuring a collaborative and efficient development process.",
+        "Applied Bootstrap and TailwindCss for responsive design, ensuring a consistent user experience across devices and Proficiently utilized Rust, TypeScript, HTML5, CSS3 and WordPress for building scalable applications",
+      "Implemented secure and efficient back-end functionalities, including user authentication, order processing, and inventory management, contributing to a 20% increase in overall platform performance."
       ],
     },
     
