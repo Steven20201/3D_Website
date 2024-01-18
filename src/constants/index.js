@@ -21,6 +21,8 @@ import {
     sme,
     cpg,
     SEO,
+    php,
+    laravel
   } from "../assets";
   
   export const navLinks = [
@@ -65,6 +67,14 @@ import {
    {
       name: "CSS 3",
       icon: css,
+    },
+    {
+      name: "PHP",
+      icon: php,
+    },
+    {
+      name: "Laravel",
+      icon: laravel,
     },
     {
       name: "JavaScript",
