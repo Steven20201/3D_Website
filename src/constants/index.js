@@ -120,10 +120,10 @@ import {
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
-        "Assisted in the optimization of website speed and performance through code refactoring and image optimization.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Collaborated with the marketing team to align SEO and social media efforts with overall marketing goals.",
+        "Utilized Figma for comprehensive wireframing of an ECommerce website, implemented successfully on a Malaysia online platform in 2020",
+        "Developed a fully functional website capable of product management using Laravel, MySQL, PHP Node.js and JavaScript",
+        "Produced high quality frontend designs, prioritizing attentions to details for optimal user experiences on various devices",
+        "Gained exposure to version control systems like Git for collaborative development workflows.",
       ],
     },
     {
