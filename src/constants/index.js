@@ -21,7 +21,7 @@ import {
     sme,
     cpg,
     SEO,
-    php,
+    php, 
     laravel
   } from "../assets";
   
@@ -69,11 +69,11 @@ import {
       icon: css,
     },
     {
-      name: "PHP",
+      name: "php",
       icon: php,
     },
     {
-      name: "Laravel",
+      name: "lara",
       icon: laravel,
     },
     {
